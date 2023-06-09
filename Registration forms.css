@@ -1,0 +1,32 @@
+body {
+    background-image: url('https://www.samhsa.gov/sites/default/files/hiv-slider.png');
+    background-size: cover;
+  }
+  
+  .main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .register {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-position: center;
+    width: 400px;
+    font-size: medium;
+    border-radius: 10px;
+    box-shadow: 2px 2px 15px;
+    box-sizing: content-box;
+    color: #fff; /* Set the text color */
+  }
+  
+  .register label {
+    color: #fff; /* Set the label text color */
+  }
+  
+  /* Rest of the CSS code... */
+
+  
+  
